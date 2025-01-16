@@ -45,6 +45,7 @@ This repository is designed to evaluate software engineering candidates on cruci
 │   ├── test_file_utils.py
 │   └── test_pdf_utils.py
 └── venv                    # Virtual environment directory
+```
 
 Clone the repository:
 ```bash
