@@ -6,6 +6,7 @@ Your task is to extract the data from these PDFs and store it in a structured fo
 Assume that these won't be the only PDFs you'll need to process, and that you'll need to scale your solution to handle a larger number of files, both in 
 terms of file structure and data volume.
 
+
 Please code your solution using Python.
 
 You're free to structure the project as you see fit, but make sure to include clear instructions on how to run your solution.
