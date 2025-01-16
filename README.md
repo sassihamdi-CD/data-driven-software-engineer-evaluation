@@ -27,11 +27,9 @@ This repository is designed to evaluate software engineering candidates on cruci
 ```plaintext
 .
 ├── output                  # Directory for processed output files
-├── output_directory       # Another directory related to output files
 ├── pdfs                   # Directory containing PDF files to process
 ├── README.md              
 ├── requirements.txt        # List of dependencies required for the project
-├── test_results.txt        # File to store test execution results
 ├── src                     # Source code directory
 │   ├── config.py           # Configuration settings
 │   ├── __init__.py         
